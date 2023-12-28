@@ -44,4 +44,4 @@ Sinta-se à vontade para explorar, aprender e contribuir!
 
 **Observação:** Este material faz parte de estudos acadêmicos. Sugestões, correções e contribuições são sempre bem-vindas.
 ---
-> [Autora](https://github.com/GabrieleAraujo) <br>
+> *Autora: [Gabriele Araújo](https://github.com/GabrieleAraujo)*
