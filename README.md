@@ -30,11 +30,11 @@ Diversos métodos são explorados para a solução de EDOs, incluindo:
 
 O repositório está organizado da seguinte forma:
 
-- **/1_av_absorcao:** Contém a implementação para o Problema da mistura.
+- [**1_av_absorcao:**](/1_av_absorcao) Contém a implementação para o Problema da mistura.
 
-- **/2av_Artigos_Solution:** Reprodução de artigos aplicando diversos métodos.
+- [**2av_Artigos_Solution:**](/2av_Artigos_Solution) Reprodução de artigos aplicando diversos métodos.
 
-- **/3_Avaliacao_lista:** Apresenta a solução da última lista de avaliação.
+- [**3_Avaliacao_lista:**](/3_Avaliacao_lista) Apresenta a solução da última lista de avaliação.
 - 
 ## Como Utilizar
 
