@@ -30,7 +30,7 @@ Diversos métodos são explorados para a solução de EDOs, incluindo:
 
 O repositório está organizado da seguinte forma:
 
-- [**1_av_absorcao:**](/1_av_absorcao) Contém a implementação para o Problema da mistura.
+- [**1_av_absorcao:**](/1_av_absorcao) Modelagem de transferência de massa em colunas de absorção.
 
 - [**2av_Artigos_Solution:**](/2av_Artigos_Solution) Reprodução de artigos aplicando diversos métodos.
 
