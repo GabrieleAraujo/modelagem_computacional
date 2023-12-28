@@ -34,7 +34,7 @@ O repositório está organizado da seguinte forma:
 
 - [**2av_Artigos_Solution:**](/2av_Artigos_Solution) Reprodução de artigos aplicando diversos métodos.
 
-- [**3_Avaliacao_lista:**](/3_Avaliacao_lista) Apresenta a solução da última lista de avaliação.
+- [**3_Avaliacao_lista:**](/3_Avaliacao_lista) Apresenta a solução da última lista de avaliação, abordando métodos para Equações de Laplace, Calor e Onda, Equações de Navier-Stokes, entre outros.
 
 ## Como Utilizar
 
