@@ -35,7 +35,7 @@ O repositório está organizado da seguinte forma:
 - [**2av_Artigos_Solution:**](/2av_Artigos_Solution) Reprodução de artigos aplicando diversos métodos.
 
 - [**3_Avaliacao_lista:**](/3_Avaliacao_lista) Apresenta a solução da última lista de avaliação.
-- 
+
 ## Como Utilizar
 
 Cada pasta contém códigos-fonte claramente documentados, acompanhados de notebooks demonstrativos para facilitar a compreensão e aplicação dos métodos estudados.
