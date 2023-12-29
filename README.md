@@ -1,6 +1,6 @@
 # Modelagem Computacional
 
-Este repositório é dedicado ao estudo e implementação de métodos para a solução de Equações Diferenciais Ordinárias (EDOs) na metodologia de Modelagem Computacional.
+Este repositório é dedicado ao estudo e implementação de métodos para a solução de Equações Diferenciais Ordinárias (EDOs) na componente de Modelagem Computacional.
 
 ## Disciplinas Exploradas
 
